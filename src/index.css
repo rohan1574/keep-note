@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dYrfwz>input[type=text]:focus {
+    --tw-ring-shadow: rgb(255 255 255 / 50%);
+}
+
+
+.dark .rti--input {
+    background-color: #000;
+}
+.dark .rti--tag {
+    background-color: #000;
+}
+
+.icon {
+    border-radius: 0 30px 30px 0
+}
+
+.dark .rti--container {
+    --rti-bg: #000;
+}
